@@ -6,10 +6,10 @@ master
 # My Python Examples for everyone 
 =======
 # but first we need python :
-
+=======
 if you have already, then ingore this ...
 download python through this link - https://www.python.org/downloads/
-========
+=======
  
 master
 # My Python Egs :snake: :smile:
