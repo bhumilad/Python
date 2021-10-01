@@ -7,9 +7,8 @@ master
 
 # but first we need python :
 <hr>
-**if you have already, then ingore this...download python through this link - https://www.python.org/downloads/**
+if you have already, then ingore this...download python through this link - https://www.python.org/downloads/
 </hr>
-=======
  
 master
 # My Python Egs :snake: :smile:
