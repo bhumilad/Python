@@ -5,7 +5,7 @@ Master
 master
 # My Python Examples for everyone 
 
-# but first we need python :
+## but first we need python :
 <hr>
 if you have already, then ingore this...download python through this link - https://www.python.org/downloads/
 </hr>
